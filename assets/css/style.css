@@ -99,3 +99,9 @@ cursor: pointer;
     background-color: #FFF;
     color: #4D73F8;
 }
+.crose{
+    position: absolute;
+    right: 20px;
+    top: 20px;
+    cursor: pointer;
+}
